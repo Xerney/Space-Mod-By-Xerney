@@ -10,4 +10,4 @@ Overwrite any files when prompt/asked
 
 Congratulations! You now have space as a playable character!
 
-READ THE LICENCE BEFORE PLAYING!
+READ THE LICENSE BEFORE PLAYING!
